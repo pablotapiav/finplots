@@ -27,8 +27,10 @@ devtools::install_github("pablotapiav/finplots")
 *tidy_bbg:* Custom function to transform data from Bloomberg using rblpapi.
 
 
-## Usage
+# Usage
 <sub>(more examples comming soon)</sub>
+
+## line_plot
 ~~~r
 library(readr)
 data <- read.csv("https://raw.githubusercontent.com/pablotapiav/pablotapiav.github.io/master/raw_sample.csv")
