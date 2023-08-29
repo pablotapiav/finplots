@@ -13,7 +13,7 @@ You can install the latest version of **finplots** from GitHub using the `devtoo
 
 ```r
 devtools::install_github("your-username/finplots")
-r```
+
 
 ## Functions
 
