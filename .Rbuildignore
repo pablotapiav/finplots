@@ -1,0 +1,8 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^R/creating a package\.R$
+^R/hello\.R$
+^R/example\.R$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$

@@ -1,0 +1,22 @@
+Package: finplots
+Type: Package
+Title: Financial Plots with one line of code
+Version: 0.1.0
+Authors@R: person("Pablo", "Tapia Varela", email = "pablotapiav@gmail.com",
+  role = c("aut", "cre"))
+Description: Create useful visualizations for financial purposes.
+              You only need a dataset with a date and prices, we'll take care of the rest!
+License: GPL-2
+Encoding: UTF-8
+Imports:
+    dplyr (>= 1.1.2),
+    ggplot2 (>= 3.4.3),
+    lubridate,
+    purrr (>= 1.0.2),
+    reshape2 (>= 1.4.4),
+    tidyr (>= 1.3.0)
+RoxygenNote: 7.2.3
+Roxygen: list(markdown = TRUE)
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
