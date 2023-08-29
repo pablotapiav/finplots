@@ -43,6 +43,7 @@ plot_line(data, frequency = "monthly", method = "comparison", display = "plot")
 * This is a beta version intended to work with large data using daily values. So intraday prices are not supported.
 * Following version will focus on be smart enough to guess frequency basis and plot what is intended.
 * Boxplot will have return method added.
+* tidy function for yahoo data 
 
 
 ## Contact
