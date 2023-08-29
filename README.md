@@ -18,7 +18,7 @@ devtools::install_github("pablotapiav/finplots")
 
 ## Functions
 
-*plot_line:* Create line charts to visualize time series data.
+*plot_line:* Create line charts to visualize time series data. You can extract a table as well using `display = "table"` if you only need transformed data.
 
 *plot_boxplot:* Generate box plots to understand data distribution.
 
@@ -28,7 +28,7 @@ devtools::install_github("pablotapiav/finplots")
 
 
 ## Usage
-
+<sub>(more examples comming soon)</sub>
 ~~~r
 library(readr)
 data <- read.csv("https://raw.githubusercontent.com/pablotapiav/pablotapiav.github.io/master/raw_sample.csv")
