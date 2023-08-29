@@ -1,9 +1,9 @@
 # finplots - Financial Visualization Package (R)
 
-[![GitHub license](https://img.shields.io/github/license/your-username/finplots.svg)](https://github.com/your-username/finplots/blob/master/LICENSE)
-[![GitHub release](https://img.shields.io/github/release/your-username/finplots.svg)](https://github.com/your-username/finplots/releases)
-[![GitHub issues](https://img.shields.io/github/issues/your-username/finplots.svg)](https://github.com/your-username/finplots/issues)
-[![GitHub stars](https://img.shields.io/github/stars/your-username/finplots.svg)](https://github.com/your-username/finplots/stargazers)
+[![GitHub license](https://img.shields.io/github/license/pablotapiav/finplots.svg)](https://github.com/pablotapiav/finplots/blob/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/pablotapiav/finplots.svg)](https://github.com/pablotapiav/finplots/releases)
+[![GitHub issues](https://img.shields.io/github/issues/pablotapiav/finplots.svg)](https://github.com/pablotapiav/finplots/issues)
+[![GitHub stars](https://img.shields.io/github/stars/pablotapiav/finplots.svg)](https://github.com/pablotapiav/finplots/stargazers)
 
 **finplots** is an R package designed for creating beautiful financial visualizations with just a single line of code. This package aims to simplify the process of generating common financial plots, making it easier for analysts and researchers to visualize their data.
 
