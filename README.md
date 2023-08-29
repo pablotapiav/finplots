@@ -12,7 +12,7 @@
 You can install the latest version of **finplots** from GitHub using the `devtools` package:
 
 ~~~r
-devtools::install_github("your-username/finplots")
+devtools::install_github("pablotapiav/finplots")
 ~~~
 
 
