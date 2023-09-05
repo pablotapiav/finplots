@@ -41,6 +41,10 @@ plot_line(data, frequency = "monthly", method = "comparison", display = "plot")
 
 ![Plot line example](https://raw.githubusercontent.com/pablotapiav/finplots/website/plotline600.png)
 
+for a more detailed explanation and notes please visit:
+https://pablotv.medium.com/finplots-y-algunas-notas-sobre-crear-un-paquete-6c5545b0f916
+
+
 ## Known issues and following versions
 * This is a beta version intended to work with large data using daily values. So intraday prices are not supported.
 * Following version will focus on be smart enough to guess frequency basis and plot what is intended.
