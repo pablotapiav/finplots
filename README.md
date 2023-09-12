@@ -30,6 +30,8 @@ devtools::install_github("pablotapiav/finplots")
 # Usage
 <sub>(more examples comming soon)</sub>
 
+for a more detailed explanation and notes please visit [this link](https://pablotv.medium.com/finplots-y-algunas-notas-sobre-crear-un-paquete-6c5545b0f916) .
+
 ## line_plot
 ~~~r
 library(readr)
@@ -41,8 +43,8 @@ plot_line(data, frequency = "monthly", method = "comparison", display = "plot")
 
 ![Plot line example](https://raw.githubusercontent.com/pablotapiav/finplots/website/plotline600.png)
 
-for a more detailed explanation and notes please visit:
-https://pablotv.medium.com/finplots-y-algunas-notas-sobre-crear-un-paquete-6c5545b0f916
+**for a more detailed explanation and notes please visit [this link](https://pablotv.medium.com/finplots-y-algunas-notas-sobre-crear-un-paquete-6c5545b0f916) .**
+
 
 
 ## Known issues and following versions
